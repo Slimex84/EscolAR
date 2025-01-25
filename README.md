@@ -37,4 +37,4 @@ EscolAR is an augmented reality (AR) app designed to enhance natural science edu
 
 |   |   |
 |:--------------:|:---------------:|
-| ![App Screenshot]() | ![App Screenshot]() |
+| ![App Screenshot](https://assets.zyrosite.com/cdn-cgi/image/format=auto,fit=crop/mk3DXyWBRZCxzX6B/captura-de-pantalla-2025-01-25-001752-m2WaE45K1LuV8o5G.png) | ![App Screenshot](https://assets.zyrosite.com/cdn-cgi/image/format=auto,fit=crop/mk3DXyWBRZCxzX6B/captura-de-pantalla-2025-01-25-001835-mnlqJ3z00rhGWq7r.png) |
