@@ -22,9 +22,9 @@ EscolAR is an augmented reality (AR) app designed to enhance natural science edu
 
 <li>Usage:</li>
 
-1. Find a flat surface with the camera of the device. 
+1. Find a flat surface with the device's camera. 
 
-2. After the portal appears, yu can cross it and see the virtual elements used as an educational tool.
+2. After the portal appears, you can cross it and see the virtual elements used as an educational tool.
 
 </ul>
 
